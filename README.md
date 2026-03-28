@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trquos
+- 👋 Hi, I’m @kemprze
 - 👀 I’m interested in cognitive psychology and soft cognitive sciences. 
 - 🌱 I’m currently learning JavaScript/HTML/CSS programming and I will be open to learning other languages as well. On the side, I am also dabbling in Kotlin and Python.
 - 💞️ I’m not looking to collaborate at the current moment, but I may be open to do so in the future.
